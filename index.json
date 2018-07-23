@@ -1,0 +1,21 @@
+{
+“NYC” : {
+	“boroughs” : {
+		“Queens”: {
+      "parks":["cunningham", "roy wilkins", "baisley"],
+      "boardwalks": ["LIC", "rockaway"]
+    }
+		“Brooklyn”: {
+      "parks":["prospect", "brooklyn bridge park"],
+      "boardwalks":["coney island", "promenade"]
+    }
+		“Manhattan”: {
+      "parks":["central", "washington square"],
+      "waterfronts": ["south street seaport", "pier17"]
+    }
+		“Bronx”: {
+      "parks"
+    }
+		}
+	}
+}
